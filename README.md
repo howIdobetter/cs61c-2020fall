@@ -3,3 +3,6 @@
 
 ## lab
 [All the labs](https://github.com/howIdobetter/cs61c-lab-2020fall)
+
+## proj
+[proj1](https://github.com/howIdobetter/cs61c-2020fall-proj1)
