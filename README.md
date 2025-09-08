@@ -7,3 +7,4 @@
 ## proj
 [proj1](https://github.com/howIdobetter/cs61c-2020fall-proj1)
 [proj2](https://github.com/howIdobetter/cs61c-2020fall-proj2)
+[proj3](https://github.com/howIdobetter/cs61c-2020fall-proj3)
